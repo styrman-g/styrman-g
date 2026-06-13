@@ -1,14 +1,15 @@
 #+TITLE: Welcome to Styrmans GITHUB 👋
 
 * About me
+I'm not a programmer. I run Linux because I want it. I like free software (free as in freedom) and try to use as much free software as possible. Right now I'm learning Python and working on getting better at it.
 
 * About my GitHub.
+On my GitHub page you can find my configuration files for Linux. You can find them under my dotfiles repo.
+- Software I use: 
+- I'm running Qtile or Sway as my windowmanager.
+- My text editor is: Emacs, and I'm running a distribution of emacs called doom-emacs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
 - 📫 How to reach me:
     - Contact me on matrix:
-    -@styrman_g:matrix.org
+    - @styrman_g:matrix.org
 -->
