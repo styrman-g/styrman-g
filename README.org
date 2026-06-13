@@ -1,6 +1,8 @@
-#+TITLE: Welcome to Styrmans GITHUB 👋
+#+TITLE: Welcome to Styrmans GITHUB ⛵
 
 * About me
+Welcome to my GitHub page.
+My name is Gustav Hogbring and on my site you will mainly find my configuration files for various Linux programs.
 I'm not a programmer. I run Linux because I want it. I like free software (free as in freedom) and try to use as much free software as possible. Right now I'm learning Python and working on getting better at it.
 
 * About my GitHub.
